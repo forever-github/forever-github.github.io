@@ -1,14 +1,14 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+description: 志在指尖 用双手敲打未来
+keywords: 志在指尖, Liu Hai Dong, 刘海东
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-我是马壮，码而生，码而立。
+我是刘海东，志在指尖，用双手敲打未来。
 
 仰慕「优雅编码的艺术」。
 
